@@ -1,2 +1,1 @@
-# operating_system
-FCFS problem solve
+<h1 align = "center">Operating System</h1>
